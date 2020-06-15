@@ -1,0 +1,28 @@
+https://programminghistorian.org/en/lessons/visualizing-with-bokeh
+https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda
+
+telecom customer churn prediction assessment in python
+https://www.kaggle.com/shubhagrawal2693/telco-customer-churn-analysis
+https://www.kaggle.com/bandiatindra/telecom-churn-prediction
+
+
+1.  % Senior Citizens - There are only 16% of the customers who are senior citizens. 
+Thus most of our customers in the data are younger people.
+
+2.  As we can see from this graph most of the customers are in the month to month contract. 
+While there are equal number of customers in the 1 year and 2 year contracts.
+
+3.  Churn vs Tenure: As we can see form the below plot, the customers who do not churn,
+ they tend to stay for a longer tenure with the telecom company.
+
+iv.) Churn by Monthly Charges: Higher % of customers churn when the monthly charges are high.
+
+v.) Churn by Total Charges: It seems that there is higer churn when the total charges are lower.
+
+
+The data set includes information about:
+
+Customers who left within the last month – the column is called Churn
+Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+Demographic info about customers – gender, age range, and if they have partners and dependents
